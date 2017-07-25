@@ -40,7 +40,7 @@ Desenvolvedor Android e apaixonado por informática, atualmente cursando Técnic
 - Feira de Tecnologias, Engenharias e Ciências de Mato Grosso do Sul (FETEC MS), no ano de 2016 na cidade de Campo Grande.
 
 # Outros: 
+- API RestFull em Node.js
 - WebService em PHP e em Java para consumir o banco de dados do site e passar os dados para o aplicativo da mini-empresa;
 - 2 participações na OBR (Olimpíada Brasileira de Robótica);
-- Freelancer do site Tudo Interessante, atuando como editor de vídeos;
 - 2 participações na OBA (Olimpíada Brasileira de Astronomia).
